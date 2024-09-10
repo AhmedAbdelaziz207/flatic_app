@@ -1,3 +1,10 @@
 {
-  "appName" : "Flatic"
+  "appName" : "Flatic",
+  "SearchHint" : "Search on Flatic.. ",
+  "homeHeadLine" : "Upgrade Your Life With Our Premium Electronics" ,
+  "homeSubHeadLine" :  "Stay ahead of the curve with our selection of high-quality electronics.\nWhether it's for gaming, productivity, or entertainment, we have the perfect device for you.",
+  "buyNow": "Buy Now",
+  "viewDetails" : "View Details",
+  "featuredCategory" : "Featured Category",
+  "popularProducts" : "Popular Products on Flatic"
 }
